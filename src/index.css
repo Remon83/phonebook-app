@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+}
+
+.userCard {
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding: 5px;
+    position: relative;
+}
+
+.userCard ul {
+    list-style-type: none;
+}
+
+.userCard ul li {
+    margin-bottom: 2px;
+}
+
+.container {
+    background-color: red !important;
+}
+
+.btnGrp {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+}
+
+.btnGrp button:first-child {
+    margin-right: 2px;
+}
