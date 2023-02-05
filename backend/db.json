@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": [
+        "Remon Zaki "
+      ],
+      "phone": [
+        "0122621027100"
+      ],
+      "city": [
+        "usa"
+      ],
+      "id": 1
+    },
+    {
+      "name": [
+        "MInass Morris"
+      ],
+      "phone": [
+        "1211690216"
+      ],
+      "city": [
+        "Masakin Shiratun"
+      ],
+      "id": 3
+    },
+    {
+      "name": [
+        "cfc"
+      ],
+      "phone": [
+        "4151651"
+      ],
+      "city": [
+        "cairo"
+      ],
+      "id": 4
+    },
+    {
+      "name": [
+        "Remon Zaki"
+      ],
+      "phone": [
+        "01226210271"
+      ],
+      "city": [
+        "CAIRO"
+      ],
+      "id": 5
+    },
+    {
+      "name": [
+        "Remon Zaki"
+      ],
+      "phone": [
+        "01226210271"
+      ],
+      "city": [
+        "CAIRO"
+      ],
+      "id": 6
+    }
+  ]
+}
